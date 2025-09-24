@@ -27,10 +27,8 @@
 ```text
 game/
 ├── index.html # Основной HTML файл
-├── css/
-│ └── style.css # Стили игры
-├── js/
-│ └── script.js # Логика игры
+├── style.css # Стили игры
+├── script.js # Логика игры
 └── README.md # Этот файл
 ```
 
